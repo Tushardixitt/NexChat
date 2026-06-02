@@ -1,7 +1,8 @@
 # NexChat🌐 MERN Chat & Language Exchange Platform
 A real-time full-stack chat and video communication platform built with the MERN stack.
 This project is more than just a chat app—it’s a language exchange platform with 32 DaisyUI themes, powerful communication tools, and a scalable architecture.
-🚀 Features
+
+#🚀 Features
 🌐 Real-time Messaging – Typing indicators, reactions, and instant delivery
 📹 1-on-1 & Group Video Calls – Supports screen sharing and call recording
 🔐 JWT Authentication – Secure login/signup & protected routes
@@ -12,7 +13,8 @@ This project is more than just a chat app—it’s a language exchange platform 
 🚀 Free Deployment Ready – Easily host frontend & backend on free-tier platforms
 🎯 Scalable Technologies – Powered by Strea
 ⏳ Extensible Features – Threads, file sharing, reactions, user presence, and more
-🛠️ Tech Stack
+
+#🛠️ Tech Stack
 Frontend
 
 React.js (Vite)
