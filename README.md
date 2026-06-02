@@ -31,3 +31,4 @@ Other Tools
 
 ESLint + Prettier
 Free deployment platforms (Vercel/Netlify for frontend, Render/Heroku for backend)
+
